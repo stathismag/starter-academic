@@ -2,11 +2,16 @@
 # Display name
 title: Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταντίνα
 
+# Role/position
+role: Κανδρή Χρ. Κωνσταντίνα
+
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations:
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio : "Το μότο μας: **Κάθε λέξη μετράει!**"
+bio : Το μότο μας - **Κάθε λέξη μετράει!**
 
 interests:
 - Artificial Intelligence
