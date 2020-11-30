@@ -2,19 +2,14 @@
 # Display name
 title: Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταντίνα
 
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-# role: Λογοθεραπεύτρια Πτυχιούχος Α.Τ.Ε.Ι. Πατρών
-
 # Organizations/Affiliations
-#organizations:
-# - name:
-#  url: ""
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ { name = "Πανεπιστήμιο Πατρών", url = "" }, { name = "Τμήμα Οικονομικών Επιστημών", url = "https://www.econ.upatras.gr/en"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio = "Τα κύρια ερευνητικά μου ενδιαφέροντα περιλαμβάνουν τη χρηματοοικονομική και τη διοικητική λογιστική."
+
+
 
 interests:
 - Artificial Intelligence
@@ -23,15 +18,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Πτυχίο στην Λογοθεραπεία
+    institution: Α.Τ.Ε.Ι Πατρών
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +29,7 @@ education:
  social:
 - icon : envelope
   icon_pack : fas
-  link : '/#contact' # For a direct email link, use "mailto:test@example.org".
+  link : '/#contact' # For a direct email link, use "mailto: test@example.org".
 -  icon : facebook
    icon_pack : fab
    link : https://el-gr.facebook.com/logotherapeia.pyrgos
@@ -61,7 +50,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email = "konnakandri@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
