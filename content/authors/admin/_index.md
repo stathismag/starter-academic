@@ -16,8 +16,8 @@ interests:
 education:
   courses:
   - course: Πτυχίο στην Λογοθεραπεία
-    institution: Α.Τ.Ε.Ι Πατρών
-    year: 2009
+   institution: Α.Τ.Ε.Ι Πατρών
+   year: 2009
 
 # Social/Academic Networking
 
