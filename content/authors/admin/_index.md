@@ -6,7 +6,7 @@ title: Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταν
 superuser: true
 
 # Role/position
-role: Κανδρή Χρ. Κωνσταντίνα
+role: Λογοθεραπεύτρια
 
 # Organizations/Affiliations
 organizations:
@@ -16,14 +16,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Το μότο μας, Κάθε λέξη μετράει!
 
-interests:
+ενδιαφέροντα:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 
-education:
+εκπαίδευση:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Πτυχίο στη Λογοθεραπεία
     institution: Stanford University
     year: 2012
 
