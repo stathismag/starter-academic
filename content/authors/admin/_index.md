@@ -37,7 +37,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -51,37 +51,26 @@ education:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 
+ - icon : envelope
+  icon_pack : fas
+  link : '/#contact' # For a direct email link, use "mailto:test@example.org".
 
 
-  # [[params.social]]
-  #   icon = "envelope"
-  #   icon_pack = "fa"
-  #   link = "mailto:flip.tanedo@ucr.edu"
-
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-  [[social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "https://el-gr.facebook.com/logotherapeia.pyrgos/"
+ -  icon : facebook
+    icon_pack : fab
+    link : https://el-gr.facebook.com/logotherapeia.pyrgos
 	
- [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/kandri/"
+- icon : linkedin
+  icon_pack : fab
+  link : https://www.linkedin.com/in/kandri
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/logotherapeia.pyrgos"
+-  icon : twitter
+  icon_pack : fab
+  link : https://twitter.com/logotherapeia.pyrgos
   
- [[social]]
-  icon = "instagram"
-  icon_pack = "fab"
-  link = "https://instagram.com/logotherapeia.pyrgos"
+-  icon : instagram
+  icon_pack : fab
+  link : https://instagram.com/logotherapeia.pyrgos
 
 
 # Link to a PDF of your resume/CV from the About widget.
