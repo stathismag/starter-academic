@@ -55,7 +55,6 @@ education:
   icon_pack : fas
   link : '/#contact' # For a direct email link, use "mailto:test@example.org".
 
-
  -  icon : facebook
     icon_pack : fab
     link : https://el-gr.facebook.com/logotherapeia.pyrgos
