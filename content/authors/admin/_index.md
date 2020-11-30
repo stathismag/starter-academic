@@ -9,9 +9,9 @@ superuser: true
 # role: Λογοθεραπεύτρια Πτυχιούχος Α.Τ.Ε.Ι. Πατρών
 
 # Organizations/Affiliations
-organizations:
+#organizations:
 # - name:
-  url: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -102,7 +102,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 
 Τα προγράμματα που σχεδιάζουμε είναι ευέλικτα και εξατομικευμένα, χρησιμοποιώντας τις πιο αποτελεσματικές θεραπευτικές και εκπαιδευτικές μεθόδους. Επιπλέον, το Κέντρο μας συνεργάζεται και ενημερώνει συνεχώς και συστηματικά τους νηπιαγωγούς και δασκάλους των παιδιών, με στόχο την καλύτερη δυνατή ένταξη του παιδιού τόσο στο σχολικό αλλά και κοινωνικό περιβάλλον.
 
