@@ -6,7 +6,7 @@ title: Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταν
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Το μότο μας: **Κάθε λέξη μετράει!**"
+bio : "Το μότο μας: **Κάθε λέξη μετράει!**"
 
 interests:
 - Artificial Intelligence
