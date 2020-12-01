@@ -100,7 +100,7 @@ address = {street = "28ης Οκτωβρίου 28", city = ", Πύργος", reg
 coordinates = {latitude = "37.672533594224035", longitude = "21.43627290623924"}
 
 # Directions for visitors to locate you.
-# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+ directions = "3ος Όροφος (έναντι Δικαστηρίων)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "logotherapeia.pyrgos"
