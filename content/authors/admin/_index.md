@@ -1,12 +1,16 @@
 ---
 # Display name
-title: Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταντίνα
+title: Κανδρή Χρ. Κωνσταντίνα
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Admin
+role: Κέντρο Λογοθεραπείας 
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Το μότο μας, Κάθε λέξη μετράει!
+# bio: Το μότο μας, Κάθε λέξη μετράει!
 
-ενδιαφέροντα:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# ενδιαφέροντα:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 εκπαίδευση:
   courses:
