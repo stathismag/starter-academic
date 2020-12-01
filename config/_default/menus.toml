@@ -17,19 +17,18 @@
   name = "Ποιοί είμαστε"
   url = "#people"
   weight = 30
+  
+    [[main]]
+  name = "Ο Χώρος μας"
+  url = "#gallery"
+  weight = 40
 
 [[main]]
   name = "Συχνές Ερωτήσεις"
   url = "#publications"
-  weight = 40
-
-  
-  [[main]]
-  name = "Ο Χώρος μας"
-  url = "#gallery"
   weight = 50
 
-[[main]]
+ [[main]]
   name = "Επικοινωνία"
   url = "#contact"
   weight = 60
