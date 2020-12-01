@@ -7,11 +7,11 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = true
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "300px"
+height = "100px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
