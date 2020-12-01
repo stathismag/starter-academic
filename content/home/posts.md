@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Πρόσφατα Άρθρα και Δημοσιεύσεις"
 subtitle = ""
@@ -66,9 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[[item]] https://www.facebook.com/139477056229950/posts/1681618105349163/
-[[item]] https://eidikospaidagogos.gr/pote-milame-gia-kathisterisi-logou/
-[[item]] https://eidikospaidagogos.gr/pote-milame-gia-kathisterisi-logou/
-[[item]] https://www.facebook.com/139477056229950/posts/1677179199126387/
-[[item]] https://www.facebook.com/139477056229950/posts/1677179199126387/
-[[item]] https://www.facebook.com/139477056229950/posts/1669680803209560/ 
+https://www.facebook.com/139477056229950/posts/1681618105349163/
+https://www.facebook.com/139477056229950/posts/1677179199126387/
+https://www.facebook.com/139477056229950/posts/1669680803209560/ 
