@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Υπηρεσίες"
-  url = "#publications"
+  url = "#talks"
   weight = 20
   
   [[main]]
@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Συχνές Ερωτήσεις"
-  url = "#projects"
+  url = "#publications"
   weight = 40
 
   
