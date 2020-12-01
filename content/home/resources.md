@@ -73,19 +73,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-**Βιβλιογραφία**
-
-[Google Scholar](https://scholar.google.gr/)	|	[SSRN](https://www.ssrn.com/index.cfm/en/) | [EconLit](https://www.aeaweb.org/econlit/)	|	[NBER](https://www.nber.org/papers/)
-
-**Βάσεις Δεδομένων**
-
-[Economic Data FRED](https://fred.stlouisfed.org/)	|	[Fama/French's Data Library](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)	|	[Hoberg-Phillips Text-based Industry Classifications](http://hobergphillips.tuck.dartmouth.edu/)	|	[Baker, Bloom and Davis' Policy Uncertainty Index](http://www.policyuncertainty.com/)	|	[Demerjian, Lev, and McVay's Managerial Ability](http://faculty.washington.edu/pdemerj/data.html)
-
-**Γλώσσες Προγραμματισμού και Εργαλεία**
-
-[Stata](https://www.stata.com/)	|	[R-Project](https://www.r-project.org/) |	[Latex Project](https://www.latex-project.org/)	| [Overleaf](https://www.overleaf.com/)	|	[Markdown](http://markdownpad.com/)	|	[Mendeley](https://www.mendeley.com) 	|	[Github](https://github.com/)
-
-**Οικονομικά Νέα**
-
-[Google Finance](https://www.google.com/finance) |	[Yahoo Finance](https://finance.yahoo.com/)	|	[Bloomberg](https://www.bloomberg.com/europe)	|	[WSJ](https://www.wsj.com/europe)
+- [Τμήμα Λογοθεραπείας - Σχολή Επιστημών Αποκατάστασης Υγείας](http://logoth.upatras.gr/)  
+- [Σύλλογος Επιστημόνων Λογοπαθολόγων Λογοθεραπευτών Ελλάδος](https://www.selle.gr/)
+- [Πανελλήνιος Σύλλογος Λογοπεδικών – Λογοθεραπευτώνς](http://www.logopedists.gr/logopedists/)
+- [Ελληνικός Σύλλογος για την Aφασία](www.aphasia.gr)
+- [Ελληνική Εταιρία Προστασίας Αυτιστικών Ατόμων](https://www.autismgreece.gr/)
+- [Ελληνική Εταιρία Προστασίας και Αποκατάστασης Αναπήρων Παίδων](https://elepap.gr/)
+- [Ελληνική Εταιρία Δυσλεξίας](http://www.dyslexia.gr/)
+- [Υπουργείο Υγείας](https://www.moh.gov.gr/)
+- [Υπουργείο Εθνικής Παιδείας και Θρησκευμάτων](https://www.minedu.gov.gr/)
++++
