@@ -82,4 +82,3 @@ subtitle = ""
 - [Ελληνική Εταιρία Δυσλεξίας](http://www.dyslexia.gr/)
 - [Υπουργείο Υγείας](https://www.moh.gov.gr/)
 - [Υπουργείο Εθνικής Παιδείας και Θρησκευμάτων](https://www.minedu.gov.gr/)
-+++
