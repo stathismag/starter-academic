@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Λογοθεραπεύτρια
+role: Alumni
 
 # Organizations/Affiliations
 organizations:

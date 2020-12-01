@@ -6,7 +6,7 @@ title: Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταν
 superuser: true
 
 # Role/position
-role: Λογοθεραπεύτρια
+role: Admin
 
 # Organizations/Affiliations
 organizations:
