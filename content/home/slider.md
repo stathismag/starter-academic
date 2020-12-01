@@ -16,8 +16,8 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "## 👋 Καλώς ήρθατε!"
+  content = "Κέντρο Λογοθεραπείας Κανδρή Κωνσταντίνα"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,8 +35,8 @@ height = "300px"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Γιατί :question:"
+  content = "Γιατί **Κάθε Λέξη Μετράει!** :simple_smile:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +44,8 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Που θα μας βρείτε :exclamation:"
+  content = "28ης Οκτωβρίου 28 (έναντι Δικαστηρίων), 3ος Ορ. - Πύργος Ηλείας "
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
