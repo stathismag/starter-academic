@@ -8,6 +8,6 @@ weight = 120  # Order that this section will appear.
 title = "Popular Topics"
 subtitle = ""
 
-#widget: tag_cloud
+# widget: tag_cloud
 
 +++
