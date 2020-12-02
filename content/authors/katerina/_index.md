@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Κατερίνα Τσούλου  
+title:  Τσούλου Κατερίνα
 #homepage: https://github.com/alexandru-dinu/
 
 
