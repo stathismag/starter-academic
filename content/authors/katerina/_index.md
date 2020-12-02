@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Τσούλου Κατερίνα
+title:  Τσούλου Κατερίνα/ Λογοθεραπεύτρια
 #homepage: https://github.com/alexandru-dinu/
 
 
