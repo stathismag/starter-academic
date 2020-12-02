@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+Minimum and maximum font sizes (1.0 = 100%).
+font_size_min: 0.8 font_size_max: 0.8
 +++
 
 ### 
