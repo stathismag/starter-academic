@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Κωνσταντίνα Κανδρή   
+title:  Κανδρή Κωνσταντίνα - Λογοθεραπεύτρια/ Υπεύθυνη Κέντρου 
 #homepage: https://github.com/alexandru-dinu/
 
 
@@ -11,7 +11,7 @@ authors:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Υπεύθυνη Κέντρου
+- Ομάδα
 
 # Is this the primary user of the site?
 superuser: true
