@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++  
 
+<div class="fb-page" 
+data-tabs="events"
+data-href="https://www.facebook.com/logotherapeia.pyrgos"
+data-width="380"></div>
+
+
 https://www.facebook.com/139477056229950/posts/1681618105349163/
 https://www.facebook.com/139477056229950/posts/1677179199126387/
 https://www.facebook.com/139477056229950/posts/1669680803209560/ 
