@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Υπεύθυνη Κέντρου Ειδικών Θεραπειών  
+role: Κέντρο Ειδικών Θεραπειών  
 
 # Organizations/Affiliations
 # organizations:
