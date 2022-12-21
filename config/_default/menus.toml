@@ -7,21 +7,26 @@
   name = "Αρχική"
   url = "#about"
   weight = 10
+  
+  [[main]]
+  name = "Σχετικά με εμάς"
+  url = "#skills"
+  weight = 20
 
 [[main]]
   name = "Διαταραχές"
   url = "#skills"
-  weight = 20
+  weight = 30
   
   [[main]]
   name = "Αξιολογητικά Εργαλεία"
   url = "#talks"
-  weight = 30
+  weight = 40
   
     [[main]]
   name = "Ο Χώρος μας"
   url = "#gallery"
-  weight = 40
+  weight = 50
 
  [[main]]
   name = "Επικοινωνία"
