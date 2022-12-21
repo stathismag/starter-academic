@@ -16,7 +16,7 @@ height = "200px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Κέντρο Λογοθεραπείας Κανδρή Χρ. Κωνσταντίνα"
+  title = "Λογοθεραπεία-Εργοθεραπεία-Ειδική Διαπαιδαγώγηση | Κέντρο Ειδικών Θεραπειών  Κανδρή Χρ. Κωνσταντίνα"
   content = "## 👋 Καλώς ήρθατε!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
