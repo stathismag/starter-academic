@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Υπηρεσίες"
-  url = "#talks"
+  name = "Διαταραχές"
+  url = "#skills"
   weight = 20
   
   [[main]]
-  name = "Ποιοί είμαστε"
-  url = "#people"
+  name = "Αξιολογητικά εργαλεία"
+  url = "#talks"
   weight = 30
   
     [[main]]
