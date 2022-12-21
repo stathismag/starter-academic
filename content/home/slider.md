@@ -16,13 +16,13 @@ height = "200px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Λογοθεραπεία-Εργοθεραπεία-Ειδική Διαπαιδαγώγηση | Κέντρο Ειδικών Θεραπειών  Κανδρή Χρ. Κωνσταντίνα"
+  title = "Λογοθεραπεία - Εργοθεραπεία - Ειδική Διαπαιδαγώγηση | Πύργος Ηλείας | Κανδρή Χρ. Κωνσταντίνα"
   content = "## 👋 Καλώς ήρθατε!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#c76f80"  # An HTML color value.
+  overlay_color = "#dff5ce"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -36,7 +36,7 @@ height = "200px"
 
 [[item]]
   title = "Γιατί..."
-  content = "Κάθε Λέξη Μετράει:exclamation: :exclamation: :exclamation:"
+  content = "Κάθε Λέξη Μετράει:exclamation:"
   align = "left"
 
   overlay_color = "#c76f80"  # An HTML color value.

@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Διαταραχές"
@@ -54,7 +54,7 @@ subtitle = ""
 +++
 
 
-Το Κέντρο Λογοθεραπείας απευθύνεται σε Παιδιά, Εφήβους και Ενήλικες με διαταραχές:
+Το Κέντρο Λογοθεραπείας απευθύνεται σε Παιδιά και Εφήβους με διαταραχές:
 * Ομιλίας (Αρθρωτικές/ Φωνολογικές Διαταραχές, Καθυστέρηση Ομιλίας, Απραξία)
 
 * Προφορικού Λόγου (Καθυστέρηση Λόγου, Διγλωσσία κ.α.)

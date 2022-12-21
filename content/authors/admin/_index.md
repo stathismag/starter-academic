@@ -14,12 +14,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Κέντρο Λογοθεραπείας 
+role: Υπεύθυνη Κέντρου Ειδικών Θεραπειών  
 
 # Organizations/Affiliations
-organizations:
-- name: ΑΤΕΙ Πατρών
-  url: ""
+# organizations:
+# - name: ΑΤΕΙ Πατρών
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Το μότο μας, Κάθε λέξη μετράει!
