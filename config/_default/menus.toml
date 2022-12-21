@@ -23,11 +23,6 @@
   url = "#gallery"
   weight = 40
 
-[[main]]
-  name = "Συχνές Ερωτήσεις"
-  url = "#publications"
-  weight = 50
-
  [[main]]
   name = "Επικοινωνία"
   url = "#contact"
