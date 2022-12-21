@@ -7,11 +7,11 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 2000
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "200px"
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -39,7 +39,7 @@ height = "200px"
   content = "Κάθε Λέξη Μετράει:exclamation:"
   align = "left"
 
-  overlay_color = "#c76f80"  # An HTML color value.
+  overlay_color = "#525b88"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
